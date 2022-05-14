@@ -1,8 +1,0 @@
-C:/Users/William Sanefski/Documents/Development_Projects/Python_Projects/CyberSecurity _Textbook/Chapter_4/plaintext.txt
-C:/Users/William Sanefski/Documents/Development_Projects/Python_Projects/test2
-
-C:/Users/William Sanefski/Documents/Development_Projects/Python_Projects/test3
-
-C:/Users/William Sanefski/Documents/Development_Projects/Python_Projects/test3
-
-C:/Users/William Sanefski/Documents/Development_Projects/Python_Projects/ttest6
